@@ -1,0 +1,2 @@
+# standardtemplate-course
+StandardTemplate
